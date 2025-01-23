@@ -1,0 +1,4 @@
+PDP               = [9, 10, 11]
+Banyak Blok       = [  9. 174.], [ 10. 165.], dan [ 11. 120.]
+Versus citra asli = 51.0
+Durasi SDCS       = 238.89577102661133 s

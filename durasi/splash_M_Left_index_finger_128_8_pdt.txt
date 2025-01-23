@@ -1,0 +1,8 @@
+PDP               = [9, 10]
+Banyak Blok       = [  9. 174.] dan [ 10. 165.]
+Versus citra asli = 27.0
+Durasi PDT        = 114.272212266922 s
+PDP               = [9, 10]
+Banyak Blok       = [  9. 174.] dan [ 10. 165.]
+Versus citra asli = 27.0
+Durasi PDT        = 113.77607154846191 s
