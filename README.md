@@ -1,7 +1,7 @@
 # MultiBinPDT
 
 - Halftone Image Steganography
-- Methods : Pixel Density Transition (PDT) and Pixel Density Transition with Sum and Cover Set Differences (SDCS).
+- Methods : Pixel Density Transition (PDT) and Pixel Density Transition with Sum and  Difference Covering Set (SDCS).
 - PDT Method is utilizing two bin, while PDT-SDCS Method is utilizing multi bin (three bin is implemented).
 - File named `embedding.py` contains all functions needed for embedding process. These functions will be used and called in `main.py` to embed secret messages into cover images.
 - File named `script.sh` is bash script to automate embedding process for all cover images to obtain stego images .
